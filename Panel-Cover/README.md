@@ -1,1 +1,3 @@
-Panel-Cover with Wirepath
+**Panel-Cover with Wirepath**
+
+Simple Panel-Cover
