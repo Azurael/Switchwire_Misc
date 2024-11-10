@@ -54,7 +54,7 @@ function install_package_requirements {
     if [ -n "$packages_to_install" ]; then
         echo "Installing missing packages: $packages_to_install"
         sudo apt update && sudo apt install -y $packages_to_install
-    fi
+    if
 }
 
 function check_download {
